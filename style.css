@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif; /* Define a fonte para o corpo do texto */
+    line-height: 1.6; /* Melhora a legibilidade do texto */
+    margin: 20px; /* Define margens externas para o conteúdo */
+}
+
+h3 {
+    font-size: 1.8em; /* Tamanho da fonte para o título principal */
+    margin-bottom: 10px; /* Espaçamento abaixo do título */
+}
+
+h4 {
+    font-size: 1.2em; /* Tamanho da fonte para os subtítulos */
+    margin-top: 20px; /* Espaçamento acima dos subtítulos */
+    margin-bottom: 10px; /* Espaçamento abaixo dos subtítulos */
+}
+
+p {
+    margin-bottom: 15px; /* Espaçamento entre parágrafos */
+}
+
+ol {
+    list-style-type: disc; /* Estilo da lista ordenada */
+    margin-left: 20px; /* Margem à esquerda para a lista */
+    margin-bottom: 15px; /* Espaçamento abaixo da lista */
+}
+
+/* Estilos para links (se houver) */
+a {
+    color: #007bff; /* Cor azul para links */
+    text-decoration: none; /* Remove sublinhado padrão de links */
+}
+
+a:hover {
+    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+}
